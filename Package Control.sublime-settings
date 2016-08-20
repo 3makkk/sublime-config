@@ -9,11 +9,14 @@
 		"Color Highlighter",
 		"DocBlockr",
 		"Emmet",
+		"Git",
 		"HTML5",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"sublimelint",
+		"SublimeLinter-jshint",
 		"Theme - Afterglow"
 	]
 }
