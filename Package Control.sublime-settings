@@ -10,12 +10,14 @@
 		"DocBlockr",
 		"Emmet",
 		"Git",
+		"Handlebars",
 		"HTML5",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"sublimelint",
+		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"Theme - Afterglow"
 	]
