@@ -30,7 +30,7 @@
     "selector_separator_newline": true // Separate selectors with newline or not (e.g. "a,\nbr" or "a, br")
   },
   "js": {
-    "allowed_file_extensions": ["js", "json", "jshintrc", "jsbeautifyrc"],
+    "allowed_file_extensions": ["js", "json", "jshintrc", "jsbeautifyrc", "hjson"],
 
     // Set brace_style
     //  collapse: (old default) Put braces on the same line as control statements
@@ -46,9 +46,9 @@
     "indent_char": " ", // Indentation character
     "indent_level": 0, // Initial indentation level
     "indent_size": 4, // Indentation size
-    "indent_with_tabs": false, // Indent with tabs, overrides `indent_size` and `indent_char`
+    "indent_with_tabs": true, // Indent with tabs, overrides `indent_size` and `indent_char`
     "jslint_happy": false, // If true, then jslint-stricter mode is enforced
-    "keep_array_indentation": false, // Preserve array indentation
+    "keep_array_indentation": true, // Preserve array indentation
     "keep_function_indentation": false, // Preserve function indentation
     "max_preserve_newlines": 0, // Maximum number of line breaks to be preserved in one chunk (0 disables)
     "preserve_newlines": true, // Whether existing line breaks should be preserved
